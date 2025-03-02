@@ -210,7 +210,7 @@ public class GameManager : MonoBehaviour
     public void NewGameData() // 이거 내가 왜만들었을까? 모르겠네
     {
         episode_Round = 1;
-         //episode_Round = 2;  // 테스트용으로 변경
+        //episode_Round = 2;  // 테스트용으로 변경
         guraScene_Save = 0;
         calliScene_Save = 0;
         kiaraScene_save = 0;
