@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: fcc4ba74fa991f04a96e28bb050b283e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 99, z: 0, w: 87}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InaFond_DialLockHint_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 751
+        width: 1800
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd18f33a674bd645b797968330b2ac5
+      internalID: 1617914188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InaFond_DialLockHint_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 589
+        width: 1800
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee04e3ab7d174d4d93007115f9af45b
+      internalID: 1485079671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InaFond_DialLockHint_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 1800
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8ece8486c334d40a41683ab87f5a34
+      internalID: 757852332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InaFond_DialLockHint_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 1800
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f5ae373969a5a4d9603ffde5af1fb3
+      internalID: 1914974592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InaFond_DialLockHint_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 90
+        width: 1799
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a44180f2a0d9694badf0397df334170
+      internalID: 1203953664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      InaFond_DialLockHint_0: 3419305
+      InaFond_DialLockHint_1: 785343001
+      InaFond_DialLockHint_10: -18008391
+      InaFond_DialLockHint_11: 1855875207
+      InaFond_DialLockHint_12: -546484396
+      InaFond_DialLockHint_13: 412498907
+      InaFond_DialLockHint_14: -771680435
+      InaFond_DialLockHint_15: 779960006
+      InaFond_DialLockHint_16: 1589770956
+      InaFond_DialLockHint_17: 1498567527
+      InaFond_DialLockHint_18: 501747138
+      InaFond_DialLockHint_19: 1228622851
+      InaFond_DialLockHint_2: 1838304155
+      InaFond_DialLockHint_20: -1687267859
+      InaFond_DialLockHint_21: 623198262
+      InaFond_DialLockHint_22: 1279489131
+      InaFond_DialLockHint_23: 2058144998
+      InaFond_DialLockHint_24: -1206527803
+      InaFond_DialLockHint_25: 995220106
+      InaFond_DialLockHint_26: 1917212720
+      InaFond_DialLockHint_27: -937395620
+      InaFond_DialLockHint_28: 1625972402
+      InaFond_DialLockHint_29: 527283768
+      InaFond_DialLockHint_3: -1383171783
+      InaFond_DialLockHint_30: -1586743425
+      InaFond_DialLockHint_31: 1142026999
+      InaFond_DialLockHint_32: 866572739
+      InaFond_DialLockHint_33: -2107501234
+      InaFond_DialLockHint_34: -853939596
+      InaFond_DialLockHint_35: 226619942
+      InaFond_DialLockHint_36: -629837115
+      InaFond_DialLockHint_37: -1582013771
+      InaFond_DialLockHint_38: 594550903
+      InaFond_DialLockHint_39: -1761905665
+      InaFond_DialLockHint_4: 676643548
+      InaFond_DialLockHint_40: 26468617
+      InaFond_DialLockHint_41: 1519453013
+      InaFond_DialLockHint_42: -839696087
+      InaFond_DialLockHint_43: 575336579
+      InaFond_DialLockHint_44: 243459640
+      InaFond_DialLockHint_45: 1617914188
+      InaFond_DialLockHint_46: 1485079671
+      InaFond_DialLockHint_47: 757852332
+      InaFond_DialLockHint_48: 1914974592
+      InaFond_DialLockHint_49: 1203953664
+      InaFond_DialLockHint_5: -1630300000
+      InaFond_DialLockHint_6: -2076836236
+      InaFond_DialLockHint_7: -551116488
+      InaFond_DialLockHint_8: 1016270905
+      InaFond_DialLockHint_9: -227738620
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

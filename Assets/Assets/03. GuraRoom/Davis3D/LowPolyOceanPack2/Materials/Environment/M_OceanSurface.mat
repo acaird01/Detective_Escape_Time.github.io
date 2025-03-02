@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_OceanSurface
+  m_Shader: {fileID: 4800000, guid: a92aa9848dfff9444a3f9adad50b637f, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Material_Texture2D_0:
+        m_Texture: {fileID: 2800000, guid: abc00000000017054413239576147454, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Material_TextureCube_0:
+        m_Texture: {fileID: 8900000, guid: abc00000000013178060894515133219, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cubemap:
+        m_Texture: {fileID: 2800000, guid: 699b2fd6b48f7374bad37c7b1dd09a87, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 59293b71c56f8cd46b70929fa2cf6927, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Cubemap_Brightness: 1
+    - _Cubemap_Clamp_Max: 10
+    - _Cubemap_Power: 1
+    - _DeepSeaBrightness: 0
+    - _DeepZHeight: -2000
+    - _DstBlend: 0
+    - _Exp_In: 5
+    - _NormFresnelPower: 5
+    - _NormIntensityAbove: 1
+    - _NormIntensityDistant: 1
+    - _NormalFresnelPower: 0.04
+    - _NormalFresnelScale: 1
+    - _NormalIntensity: 0.75
+    - _RefFraction: 0.04
+    - _SPEED_MASTER: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _Water_Intensity_5: 3
+    - _Water_MASTER_Scale: 0.5
+    - _Water_Speed1: -0.05
+    - _Water_Speed2: 0.1
+    - _Water_Speed3: 0.1
+    - _Water_Speed4: -0.01
+    - _Water_Speed5: 0.01
+    - _Water_Tile1: 150
+    - _Water_Tile2: 100
+    - _Water_Tile3: 30
+    - _Water_Tile4: 20
+    - _Water_Tile5: 10
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - LocalObjectBoundsMax: {r: 100, g: 100, b: 100, a: 0}
+    - LocalObjectBoundsMin: {r: 0, g: 0, b: 0, a: 0}
+    - View_BufferSizeAndInvSize: {r: 1920, g: 1080, b: 0.00052, a: 0.00092}
+    - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
